@@ -16,6 +16,23 @@ The dashboard helps track order performance, delivery efficiency, customer behav
 
 ---
 
+## 📸 Dashboard Screenshots
+
+### 📊Executive Overview Dashboard
+![Executive Overview](Screenshots/1.png)
+
+### 💰 Customer Analysis
+![Customer Analysis](Screenshots/2.png)
+
+### 👥 Resstaurant Performance 
+![Resstaurant Performance](Screenshots/3.png)
+
+### 📦Delivery & Operations
+![Delivery & Operations](Screenshots/4.png)
+
+### Restaurant Details
+![Restaurant Details](Screenshots/5.png)
+
 ## 📊 Key KPIs
 - Total Orders  
 - Total Revenue  
